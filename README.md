@@ -2,7 +2,9 @@
   <video controls="false" allowfullscreen="flase" loop="true">
     <source src="./assets/clipboard.mp4" type="video/mp4">
   </video>
-</figure> # TODO APP
+</figure>
+
+# TODO APP
 
 ## <a href="https://tharun0120.github.io/TODO-JS/" target="_blank">Take A Look</a>
 
