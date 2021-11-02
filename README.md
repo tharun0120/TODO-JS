@@ -1,4 +1,13 @@
-# TODO APP
+<table border="0">
+ <tr>
+    <td>
+      <video src="./assets/clipboard.mp4" autoplay loop width="65" height="65"></video>
+    </td>
+    <td>
+      <h1>TODO APP</h1>
+    </td>
+ </tr>
+</table>
 
 ## <a href="https://tharun0120.github.io/TODO-JS/" target="_blank">Take A Look</a>
 
