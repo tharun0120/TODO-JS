@@ -1,6 +1,6 @@
-<p>
+<p display="flex">
 
-![todogif](https://github.com/tharun0120/TODO-JS/blob/main/assets/clipboard.gif)
+<img src="https://github.com/tharun0120/TODO-JS/blob/main/assets/clipboard.gif" width="65" height="65"/>
 
 # TODO APP
 
