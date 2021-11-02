@@ -1,9 +1,8 @@
-<p align="left">
+<p>
 
 <img src="https://github.com/tharun0120/TODO-JS/blob/main/assets/clipboard.gif" width="65" height="65"/>
-<h1>TODO APP</h1>
 
-<!-- # TODO APP -->
+# TODO APP
 
 </p>
 
