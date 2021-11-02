@@ -1,4 +1,10 @@
+<p>
+
+![todogif](https://github.com/tharun0120/TODO-JS/blob/main/assets/clipboard.gif)
+
 # TODO APP
+
+</p>
 
 ## <a href="https://tharun0120.github.io/TODO-JS/" target="_blank">Take A Look</a>
 
