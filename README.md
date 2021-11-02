@@ -1,6 +1,6 @@
 # TODO APP
 
-## <a href="https://" target="_blank">Take A Look</a>
+## <a href="https://tharun0120.github.io/TODO-JS/" target="_blank">Take A Look</a>
 
 ### A persistent todo app made with the help of
 
